@@ -39,6 +39,7 @@
 - Android
   - [fcitx5-安卓版](https://github.com/fcitx5-android/fcitx5-android)路径为 `/Android/data/org.fcitx.fcitx5.android/files/data/rime`
   - [同文](https://github.com/osfans/trime)路径为 `/rime`
+  - [雨燕](https://github.com/gurecn/YuyanIme) 已内置白霜词库词频，直接安装使用即可
 - iOS [仓输入法](https://github.com/imfuxiao/Hamster) 目前已内置，也可以通过【输入方案设置 - 右上角加号 - 方案下载 - 覆盖并部署】来更新墨奇音形。
 
 #### 通过 Git 安装
@@ -92,6 +93,7 @@
 ### To-Do
 
 - [x] 整理分词后词频比较高但词库没有的词加进去
+- [ ] 错字错音提醒lua
 - [ ] 写自动化脚本，把句子转成拼音，再用拼音调用 rime_api 生成句子，比对正确率，迭代
 - [ ] 加上墨奇码首末字形反查，例如 amq 引导符再打 mu cun 可以打出“村 櫉 梼 树”等字
 - [x] 加上 lua 引导辅助码的功能
