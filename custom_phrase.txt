@@ -67,52 +67,52 @@ iPhone	i
 macOS	macos
 Mac	mac
 B站	bzhan
-HarmonyOS	hm	2
+HarmonyOS	hm
 T恤	txu
 U盘	upan
 up主	upzhu
-eiqli.zhao@cn.ey.com	eiqli	3
-370283199611264539	sfz	3
-eiqli.zhao@foxmail.com	fox	3
-15053205952@163.com	wy	3
-363276111@qq.com	qc	2
-Eiqli Zhao	eiqli	2
-Eiqli	eiqli	3
-WebStorm	web	3
-UAT	uat	3
-eiqli.zhao	eiqli	2
-地下城与勇士	dnf	3
-穿越火线	cf	3
-eiqli.zhao@gmail.com	gmail	3
-15053205952	tel	3
-Vue	vue	3
-React	rea	2
-feature/	fea	2
-hotfix/	hot	2
-temporary	tem	2
-bug	bug	2
-PC	pc	2
-BPM	bpm	2
-https://yhy-test.yuhong.com.cn	yhy	2
-https://yhy-uat.yuhong.com.cn	yhy	3
-https://yhyh5-test.yuhong.com.cn	mob	2
-https://yhyh5-uat.yuhong.com.cn	mob	3
-https://cs-yhyyds.yuhong.com.cn/	bpm	1
-PowerBI	pow	2
-Kavin	kav	2
-Mindy	min	2
-Emilia	emi	2
-Shur 	shur	2
-Cathy	cat	2
-Grack	gra	2
-Amber	amb	2
-Stone	sto	2
-Zero	zer	2
-Andrew	and	2
-Dax	dax	2
-Shirley	shi	3
-Sarah	sa	3
-Patrick	pat	3
-data model	dm	1
-masterGo	mas	1
-COPD	co	1
+eiqli.zhao@cn.ey.com	eiqli
+370283199611264539	sfz
+eiqli.zhao@foxmail.com	fox
+15053205952@163.com	wy
+363276111@qq.com	qc
+Eiqli Zhao	eiqli
+Eiqli	eiqli
+WebStorm	web
+UAT	uat
+eiqli.zhao	eiqli
+地下城与勇士	dnf
+穿越火线	cf
+eiqli.zhao@gmail.com	gmail
+15053205952	tel
+Vue	vue
+React	rea
+feature/	fea
+hotfix/	hot
+temporary	tem
+bug	bug
+PC	pc
+BPM	bpm
+https://yhy-test.yuhong.com.cn	yhy
+https://yhy-uat.yuhong.com.cn	yhy
+https://yhyh5-test.yuhong.com.cn	mob
+https://yhyh5-uat.yuhong.com.cn	mob
+https://cs-yhyyds.yuhong.com.cn/	bpm
+PowerBI	pow
+Kavin	kav
+Mindy	min
+Emilia	emi
+Shur 	shur
+Cathy	cat
+Grack	gra
+Amber	amb
+Stone	sto
+Zero	zer
+Andrew	and
+Dax	dax
+Shirley	shi
+Sarah	sa
+Patrick	pat
+data model	dm
+masterGo	mas
+COPD	co
